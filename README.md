@@ -3,6 +3,8 @@
 
 Welcome to my personal portfolio GitHub repository! This repository contains the source code for my personal portfolio website.
 
+Link to the site : https://aryanpachouri.github.io/Personal_Portfolio/
+
 ## Table of Contents
 
 - [Introduction](#introduction)
